@@ -5,4 +5,5 @@ if__name__ == '__main__':
     print('Calculadora v1')
     print(somar(2, 3))
 
-#aaa
+def subtrair(a, b):
+    return a - b
